@@ -1,6 +1,6 @@
- Hi I'm Bharath Reddy
+ Hi, I'm Bharath Reddy
 
-End-to-End Data Engineering Pipeline using| AWS | Snowflake | Python | SQL  
+## End-to-End Data Engineering Pipeline using| AWS | Snowflake | Python | SQL  
 
 ## Project Overview:
 
@@ -53,5 +53,6 @@ This project implements an end-to-end, cloud-native ETL pipeline that extracts m
        1.2.2 album_data/
        1.2.3 songs_data/
 
-Thank you 
+## Author
 MADA Bharath Reddy.
+Thank you 
